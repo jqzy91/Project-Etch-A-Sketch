@@ -1,1 +1,1 @@
-let grid = document.querySelector(".grid");
+let grid = document.querySelector("#grid");
